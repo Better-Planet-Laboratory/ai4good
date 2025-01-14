@@ -34,7 +34,7 @@ Here are some resources to help you along the way:
 
 - This course wouldn't be possible without a whole community of generous researchers and practitioners making their knowledge, code, and publically available. We have compiled some [supplementary resources](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/resources/ai4good%20course%20supplementary%20reading.xlsx) including online articles, videos, papers and more that might be helpful for you in your learning. If you have a favorite, add it!
 
-- We have a discord server set up [here](https://discord.gg/9Gw4pgpV). As we are testing of this course it is currently private, but the plan is to open it out later to the public if there is interest.
+- We have a discord server set up. As we are testing of this course it is currently private, but the plan is to open it out later to the public if there is interest.
 
 # Learning outcomes
 
