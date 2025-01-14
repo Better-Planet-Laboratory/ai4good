@@ -1,4 +1,4 @@
-# Ai4good course
+# ai4good course
 
 This repo is for the [Better Planet Laboratory's](https://betterplanetlab.com/) fun and approachable ai4good course. Care about poverty? Food security? Disaster response? Also passionate about data science and technology, including AI and machine learning? This hands-on course aims to familiarise you with a foundation for using state of the AI technologies, for practical, real-world use cases, focussed on sustainable development. You’ll have a chance to learn key APIs and apply what you learn to your own project. 
 
