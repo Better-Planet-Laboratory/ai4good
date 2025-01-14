@@ -8,20 +8,19 @@ The organization of this course is fairly simple. Each week we'll record a short
 
 # Schedule 
 
-Briefly the course will be set up with the following notebooks:
+Briefly the course will be follow the following schedule.
 
-- Week 1: Setup in Kaggle, Image-Text-Text example
-- Week 2: MLP and backprop
-- Week 3: CNNs and Land Cover classification 
-- Week 4: Embeddings, CF, Autoencoders and climate search.
-- Week 5: Satellite foundation models, poverty prediction
-- Week 6: GBMs and crop yield prediction
-- Week 7: LLMs, sentiment analaysis, text meaning
-- Week 8: Chatbot creation
-For the following weeks:
-- Weeks 9+ 10: Competitions/leaderboard stats [need to add data description notebooks]
-- Week 11-16 = Project development [no notebooks]
-
+- Week 1: Welcome! GettingSetup in Kaggle, Image-Text-Text example. [Video](https://o365coloradoedu-my.sharepoint.com/:v:/r/personal/zime6804_colorado_edu/Documents/BetterPlanetLab/Teaching/ENVS5100_AI4Good/vids/setup.mov?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dRCaCd). [Notebook.](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/Notebooks/wk1/setup.ipynb)
+- Week 2: Getting up to speed, MLP and backprop
+- Week 3: CNNs and land cover classification
+- Week 4: Embeddings, autoencoders, and climate search
+- Week 5: Foundation models and poverty mapping
+- Week 6: GBMs and crop yield
+- Week 7: Transformers and product labelling
+- Week 8: Agents and human rights chatbot
+- Week 9: Time series and food price forecasting
+- Week 10: Break
+- Week 11-16: Final projects (11: find your team and pick a project, 12: organize your data, 13: set up your pipeline, 14: present initial findings, 15: finalize and deploy, 16: present) 
 
 # Resources
 
@@ -31,7 +30,7 @@ Here are some resources to help you along the way:
 
 - Notebooks, each week new notebooks will be uploaded on this repo [here.](https://github.com/Better-Planet-Laboratory/ai4good/tree/main/Notebooks) We recommend setting yourself up with a [Kaggle](https://www.kaggle.com/) account and importing each notebook, data and models for that week as you go.
 
-- Weekly discussion points, updated each week [here](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/resources/ai4good%20group%20discussion%20points.pptx), to ground test your knowledge.
+- Weekly discussion points, updated each week [here](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/resources/ai4good%20group%20discussion%20points.pptx), to ground test your knowledge with a friend.
 
 - This course wouldn't be possible without a whole community of generous researchers and practitioners making their knowledge, code, and publically available. We have compiled some [supplementary resources](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/resources/ai4good%20course%20supplementary%20reading.xlsx) including online articles, videos, papers and more that might be helpful for you in your learning. If you have a favorite, add it!
 
