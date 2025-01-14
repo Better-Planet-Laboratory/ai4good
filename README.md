@@ -10,7 +10,7 @@ The organization of this course is fairly simple. Each week we'll record a short
 
 Briefly the course will be follow the following schedule.
 
-- Week 1: Welcome! GettingSetup in Kaggle, Image-Text-Text example. [Video](https://o365coloradoedu-my.sharepoint.com/:v:/r/personal/zime6804_colorado_edu/Documents/BetterPlanetLab/Teaching/ENVS5100_AI4Good/vids/setup.mov?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dRCaCd). [Notebook.](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/Notebooks/wk1/setup.ipynb)
+- Week 1: Welcome! Getting set up in Kaggle, Image-Text-Text example. [Video](https://o365coloradoedu-my.sharepoint.com/:v:/r/personal/zime6804_colorado_edu/Documents/BetterPlanetLab/Teaching/ENVS5100_AI4Good/vids/setup.mov?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dRCaCd). [Notebook.](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/Notebooks/wk1/setup.ipynb)
 - Week 2: Getting up to speed, MLP and backprop
 - Week 3: CNNs and land cover classification
 - Week 4: Embeddings, autoencoders, and climate search
