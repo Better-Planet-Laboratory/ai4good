@@ -13,12 +13,12 @@ Briefly the course will be follow the following schedule.
 - Week 1: Welcome! Getting set up in Kaggle, Image-Text-Text example. [Video](https://o365coloradoedu-my.sharepoint.com/:v:/r/personal/zime6804_colorado_edu/Documents/BetterPlanetLab/Teaching/ENVS5100_AI4Good/vids/setup.mov?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dRCaCd). [Notebook.](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/Notebooks/wk1/setup.ipynb)
 - Week 2: Getting up to speed, MLP and backprop
 - Week 3: CNNs and land cover classification
-- Week 4: Embeddings, autoencoders, and climate search
+- Week 4: Embeddings and climate search
 - Week 5: Foundation models and poverty mapping
 - Week 6: GBMs and crop yield
 - Week 7: Transformers and product labelling
-- Week 8: Agents and human rights chatbot
-- Week 9: Time series and food price competition
+- Week 8: Agents and human rights 
+- Week 9: Time series and food prices
 - Week 10: Break
 - Week 11-16: Final projects (11: find your team and pick a project, 12: organize your data, 13: set up your pipeline, 14: present initial findings, 15: finalize and deploy, 16: present) 
 
