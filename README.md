@@ -53,7 +53,4 @@ At the end, you'll present your findings to the class in a slide deck presentati
 optional findings 2, take homes]. Project submissions will be graded on four critera: Innovativeness, Rigour,  Potential impact, and Presentation.
 There are a number of required syllabus statements [here](https://www.colorado.edu/academicaffairs/about/policies-customs-guidelines/required-syllabus-statements)
 
-# License
-
-All meterials in this repo at CC-BY-SA. Have fun!
 
