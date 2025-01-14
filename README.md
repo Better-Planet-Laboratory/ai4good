@@ -18,7 +18,7 @@ Briefly the course will be follow the following schedule.
 - Week 6: GBMs and crop yield
 - Week 7: Transformers and product labelling
 - Week 8: Agents and human rights chatbot
-- Week 9: Time series and food price forecasting
+- Week 9: Time series and food price competition
 - Week 10: Break
 - Week 11-16: Final projects (11: find your team and pick a project, 12: organize your data, 13: set up your pipeline, 14: present initial findings, 15: finalize and deploy, 16: present) 
 
