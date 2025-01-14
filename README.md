@@ -44,7 +44,7 @@ Below are some of the high level learning outcomes from this course.
 - Conceptually describe the key elements of statistical learning and some of key models and architectures of deep learning today 
 - Be able to implement end-end pipelines for prediction using leading computer vision and NLP models using current frameworks
 - Conduct independent data science research projects and apply conceptual understanding to practical implementation
-- Demonstrate effective listening and discussion skills; and work through ideas and problems in a team (for those 
+- Demonstrate effective listening and discussion skills; and work through ideas and problems with peers
 
 # Grading
 
