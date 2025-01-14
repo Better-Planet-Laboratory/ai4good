@@ -1,9 +1,10 @@
-# ai4good course
+# Ai4good course
+
 This repo is for the [Better Planet Laboratory's](https://betterplanetlab.com/) fun and approachable ai4good course. Care about poverty? Food security? Disaster response? Also passionate about data science and technology, including AI and machine learning? This hands-on course aims to familiarise you with a foundation for using state of the AI technologies, for practical, real-world use cases, focussed on sustainable development. You’ll have a chance to learn key APIs and apply what you learn to your own project. 
 
 # Basic set up
 
-The course set up is fairly simple. Each week we'll record a short video for you to watch. You can use this to learn about some basic concepts. We then invite you to join a group discussion (if you are following this at home, find a friend to work through the course with to test your ideas)
+The organization of this course is fairly simple. Each week we'll record a short video for you to watch which will give you an overview of the key technical ideas for that week. You will then turn up to a discussion/coding session (find a friend if your'e doing this at home). You'll use the first part  of this session to discuss, and to test your knowledge of key concepts with good old pen and paper, and the second part to code. We'll give you a head start each week on the coding by creating a Kaggle notebook to introduce you into ways to practically implement the technical ideas you are learning about, focussing in on specific themes in sustainable development, with ideas and suggestions to extend the code, and turn it into your own. For the last weeks of the course, you will have the chance to take part in a coding competiton, and also develop and publish your own project in the ai4good space. A detailed schedule is below.
 
 # Schedule 
 
@@ -26,13 +27,13 @@ For the following weeks:
 
 Here are some resources to help you along the way:
 
-- Videos for each week can be found [here](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/zime6804_colorado_edu/Em2KAs7zzOVMod6E-B7eirwBZ6UmLLTpclxCZTlOI26zSg?e=AV9xKY) (will be uploaded on youtube in due course..).
+- Videos for each week can be found [here](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/zime6804_colorado_edu/Em2KAs7zzOVMod6E-B7eirwBZ6UmLLTpclxCZTlOI26zSg?e=AV9xKY) (we'll upload them all to youtube soon!).
 
 - Notebooks, each week new notebooks will be uploaded on this repo [here.](https://github.com/Better-Planet-Laboratory/ai4good/tree/main/Notebooks) We recommend setting yourself up with a [Kaggle](https://www.kaggle.com/) account and importing each notebook, data and models for that week as you go.
 
 - Weekly discussion points, updated each week [here](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/resources/ai4good%20group%20discussion%20points.pptx), to ground test your knowledge.
 
-- This course wouldn't be possible without a whole community of researchers and practitioners making their knowledge, code, and publically available. We have compiled some supplementary including online articles, videos, papers and more that might be helpful for you in learning more about ai. If you have a favorite, add it!
+- This course wouldn't be possible without a whole community of generous researchers and practitioners making their knowledge, code, and publically available. We have compiled some [supplementary resources](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/resources/ai4good%20course%20supplementary%20reading.xlsx) including online articles, videos, papers and more that might be helpful for you in your learning. If you have a favorite, add it!
 
 - We have a discord server set up [here](https://discord.gg/9Gw4pgpV). As we are testing of this course it is currently private, but the plan is to open it out later to the public if there is interest.
 
@@ -46,13 +47,12 @@ Below are some of the high level learning outcomes from this course.
 - Conduct independent data science research projects and apply conceptual understanding to practical implementation
 - Demonstrate effective listening and discussion skills; and work through ideas and problems in a team (for those 
 
-# For CU folks
+# Grading
 
-For CU folks, we have set up a Canvas page for you which includes all of the assignments and grading and exact due dates for this course. In brief the grading is split 30% participation (turn up to sessions!), 30% notebook completion (work through notebooks and complete the tasks each week) and 40% for final project (present your project in the final week of class). A cool aspect of this course is that you will have the chance to work and be coached on a projects you are passionate about.  At the end, you'll publish your findings in a public [Medium ](https://medium.com/) post, which you'll link to your notebook/code. Check out this example [here](https://medium.com/fika-blog/waternet-ai-powered-global-water-mapping-triples-known-waterways-bc3095783661). You'll also present your findings in a 10min 7 page slide deck [a title slide, the innovation, methods, findings, 
-optional findings 2, take homes]. Project submissions will be graded on four critera. Innovation (has it been done before?), Rigour (is it valid?), Potential impact (user targeting, theory of change) and Presentation (story, narrative, viz).
-
-Also CU folks there are a number of required syllabus statements linked here
-
+This is only those taking the course through CU. We have set up a Canvas page for you which includes all of the assignments and grading and exact due dates for this course. In brief the grading is split 30% participation (turn up to sessions!), 30% notebook completion (work through notebooks and complete the tasks each week) and 40% for final project (present your project in the final week of class). A cool aspect of this course is that you will have the chance to work and be coached on a projects you are passionate about. 
+At the end, you'll present your findings to the class in a slide deck presentation as well as in a public Medium post, in which you'll link to your code. Check out this example [here](https://medium.com/fika-blog/waternet-ai-powered-global-water-mapping-triples-known-waterways-bc3095783661).  Final presentations will be 10min and limited to 7 slides [a title slide, the innovation, methods, findings, 
+optional findings 2, take homes]. Project submissions will be graded on four critera: Innovativeness, Rigour,  Potential impact, and Presentation.
+There are a number of required syllabus statements [here](https://www.colorado.edu/academicaffairs/about/policies-customs-guidelines/required-syllabus-statements)
 
 # License
 
