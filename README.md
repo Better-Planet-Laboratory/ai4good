@@ -32,6 +32,8 @@ Here are some resources to help you along the way:
 
 - Weekly discussion points, updated each week [here](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/resources/ai4good%20group%20discussion%20points.pptx), to ground test your knowledge with a friend.
 
+- Slides for the hands-on sessions the second half of each week are [here](https://o365coloradoedu-my.sharepoint.com/:p:/g/personal/zime6804_colorado_edu/EY2VlplxWCJBu21epH67bpIBePrgKusbqSFvFMjxgHpTuA?e=ahOSiO)
+
 - This course wouldn't be possible without a whole community of generous researchers and practitioners making their knowledge, code, and publically available. We have compiled some [supplementary resources](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/resources/ai4good%20course%20supplementary%20reading.xlsx) including online articles, videos, papers and more that might be helpful for you in your learning. If you have a favorite, add it!
 
 - We have a discord server set up. As we are testing of this course it is currently private, but the plan is to open it out later to the public if there is interest.
