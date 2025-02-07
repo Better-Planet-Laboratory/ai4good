@@ -2,6 +2,9 @@
 data/
 figures/
 .DS_Store
+satclip/
+clay/
+*.ckpt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
