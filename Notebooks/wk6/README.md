@@ -1,4 +1,4 @@
-# ENVS 5100: Land cover and crop classifier
+# Land cover and crop classifier
 
 Tutorial that builds machine learning model to predict land cover class in Rwanda from satellite data.
 Based on the work of [Fankhauser et al. (2024; under review)](FankhauserEtal_2024_Preprint.pdf). 
