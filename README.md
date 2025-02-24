@@ -16,7 +16,7 @@ Briefly the course will be follow the following schedule.
 - Week 4: Embeddings and climate search [Video](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/zime6804_colorado_edu/EbdVCITL2HlPstv6FYQYPukBIODKgThq_QRGqFXqQ8YVJQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0LpfcX) [Notebooks](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/Notebooks/wk4)
 - Week 5: Foundation models and poverty mapping [Video](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/zime6804_colorado_edu/ESPm-kQvV09Ookk04MEf72oB3TBochzh-2ZQj4H0deKgow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ScjCQH) [Notebooks](https://github.com/Better-Planet-Laboratory/ai4good/blob/main/Notebooks/wk5)
 - Week 6: GBMs and crop yield
-- Week 7: Transformers and product labelling
+- Week 7: Transformers and product labelling [Video](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/zime6804_colorado_edu/EWHiWvxi42hHnTkjq3h5180BrImUVYSKTOhML1YbUH0sow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=463Gr5)
 - Week 8: Agents and human rights 
 - Week 9: Time series and food prices
 - Week 10: Break
