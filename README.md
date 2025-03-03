@@ -19,8 +19,9 @@ Briefly the course will be follow the following schedule.
 - Week 7: Transformers and product labelling [Video](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/zime6804_colorado_edu/EWHiWvxi42hHnTkjq3h5180BrImUVYSKTOhML1YbUH0sow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=463Gr5)
 - Week 8: Agents and human rights 
 - Week 9: Time series and food prices
-- Week 10: Break
-- Week 11-16: Final projects (11: find your team and pick a project, 12: organize your data, 13: set up your pipeline, 14: present initial findings, 15: finalize and deploy, 16: present) 
+- Week 10: Final project: find your team and pick a project,
+- Week 11: Break
+- Week 12-16: Final projects (12: organize your data, 13: set up your pipeline, 14: present initial findings, 15: finalize and deploy, 16: present) 
 
 # Resources
 
