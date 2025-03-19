@@ -18,10 +18,10 @@ Briefly the course will be follow the following schedule.
 - Week 6: GBMs and crop yield [Concept walkthrough was done in session, will follow with Video]
 - Week 7: Transformers and product labelling [Video](https://o365coloradoedu-my.sharepoint.com/:v:/g/personal/zime6804_colorado_edu/EWHiWvxi42hHnTkjq3h5180BrImUVYSKTOhML1YbUH0sow?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=463Gr5)
 - Week 8: Agents and human rights [Concept walkthrough was done in session, will follow with Video]
-- Week 9: Time series and food prices [Competition](https://www.kaggle.com/competitions/bpl-ai4good-wheat-price-forecasting)
-- Week 10: Special class visit by Caleb Kruse! [Earth from Space] (https://docs.google.com/presentation/d/11IUGOguNMisci-mwZ46l5072NGgn1qoAMX66EF3t_a8/edit#slide=id.g23740273e27_0_0) [Vid to follow].
+- Week 9: Time series and food prices [Competition](https://www.kaggle.com/competitions/bpl-ai4good-wheat-price-forecasting). Find our final project team excercise.
+- Week 10: Special class visit with Caleb Kruse! [Earth from Space](https://docs.google.com/presentation/d/11IUGOguNMisci-mwZ46l5072NGgn1qoAMX66EF3t_a8/edit#slide=id.g23740273e27_0_0) [Vid to follow]. Final project updates.
 - Week 11: Break
-- Week 12-16: Final projects (12: organize your data, 13: set up your pipeline, 14: present initial findings, 15: finalize and deploy, 16: present) 
+- Week 12-16: Final project updates (12: organize your data, 13: set up your pipeline, 14: present initial findings, 15: finalize and deploy, 16: present) 
 
 # Resources
 
