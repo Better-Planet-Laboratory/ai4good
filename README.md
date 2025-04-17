@@ -2,6 +2,8 @@
 
 This repo is for the [Better Planet Laboratory's](https://betterplanetlab.com/) fun and approachable ai4good course. Care about poverty? Food security? Disaster response? Also passionate about data science and technology, including AI and machine learning? This hands-on course aims to familiarise you with a foundation for using state of the AI technologies, for practical, real-world use cases, focussed on sustainable development. You’ll have a chance to learn key APIs and apply what you learn to your own project. 
 
+![til](/resources/overview.gif)
+
 # Basic set up
 
 The organization of this course is fairly simple. Each week we'll record a video for you to watch which will give you an overview of the key technical ideas for that week. You will then turn up to a discussion/coding session (find a friend if your'e doing this at home). You'll use the first part  of this session to discuss, and to test your knowledge of key concepts with good old pen and paper, and the second part to code. We'll give you a head start each week on the coding by creating a Kaggle notebook to introduce you into ways to practically implement the technical ideas you are learning about, focussing in on specific themes in sustainable development, with ideas and suggestions to extend the code, and turn it into your own. For the last weeks of the course, you will have the chance to take part in a coding competiton, and also develop and publish your own project in this space. A detailed schedule is below.
