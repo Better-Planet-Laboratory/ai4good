@@ -1,0 +1,18 @@
+[submodule "projects/2025/wdi-income-inequality"]
+	path = projects/2025/wdi-income-inequality
+	url = https://github.com/garrettwflowers/wdi-income-inequality.git
+[submodule "projects/2025/seafoodpantry"]
+	path = projects/2025/seafoodpantry
+	url = https://github.com/mayanpoll/seafoodpantry.git
+[submodule "projects/2025/SWEGrapher"]
+	path = projects/2025/SWEGrapher
+	url = https://github.com/SoundWavesHello/SWEGrapher.git
+[submodule "projects/2025/eew-research"]
+	path = projects/2025/eew-research
+	url = https://github.com/dillon-p/eew-research.git
+[submodule "projects/2025/ohmward_website"]
+	path = projects/2025/ohmward_website
+	url = https://github.com/iankchristie/ohmward_website.git
+[submodule "projects/2025/critical-mineral-prediction"]
+	path = projects/2025/critical-mineral-prediction
+	url = https://github.com/tianyimasf/critical-mineral-prediction.git
